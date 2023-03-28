@@ -26,7 +26,7 @@
         <tr>
             <td>
                 <?php
-                if (isset($_POST["hitung"])){
+                if (isset($_POST["hitung"]){
                     $angka1 = $_POST['angka1'];
                     $angka2 = $_POST['angka2'];
                     $operator = $_POST['operator'];
